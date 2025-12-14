@@ -18,3 +18,8 @@
 * Использование `header`, `main`, `section`, `article`, `footer`
 * Форма подписки с полем email
 * Подготовлено для дальнейшего подключения CSS и JavaScript
+
+## Структура проекта
+* `index.html` - главная страница
+* `assets/img` - изображения
+* `assets/icons` - иконки
