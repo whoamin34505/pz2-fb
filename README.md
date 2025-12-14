@@ -23,3 +23,5 @@
 * `index.html` - главная страница
 * `assets/img` - изображения
 * `assets/icons` - иконки
+
+[Публичная страница на GitHub Pages](https://whoamin34505.github.io/pz2-fb/)
